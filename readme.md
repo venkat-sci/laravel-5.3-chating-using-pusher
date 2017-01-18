@@ -12,16 +12,16 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 here are the steps for usign this app
 
-1) clone the repository 
-2) And compy .env.example to .env file and enter the suttable settings in this file 
-3) create account in Pusher using this link [Pusher create](https://dashboard.pusher.com/accounts/sign_in)
-4) add your values in .env file
+1) clone the repository.
+2) And compy .env.example to .env file and enter the suttable settings in this file. 
+3) create account in Pusher using this link [Pusher create](https://dashboard.pusher.com/accounts/sign_in).
+4) add your values in .env file.
 
         PUSHER_APP_ID=
         PUSHER_KEY=
         PUSHER_SECRET=
         
- 5) then open app in browser in two tabs and test the App
+ 5) then open app in browser in two tabs and test the App.
  
  Happy coding :-)
  
